@@ -32,6 +32,7 @@ In addition, it has prepared the path for me to seek one of the following entry-
 | [5](https://docs.google.com/document/d/1k-c8dAu9GOLse2Jw9rh_5ewVbyE88RBtRXDkwlahY9A/edit?usp=sharing) - Vulnerability assessment report  | `INFOSEC`, `Vulnerability Assessment`, `Google Docs`, `Report`,
 | [6](https://docs.google.com/document/d/1ATNflt2Owi9TihtuwSqrdbTniGcFLaBz9-dBcpIab24/edit?usp=sharing) - Apply Filters in SQL  | `INFOSEC`, `SQL Filtering`, `Google Docs`, `Database`,
 | [7](https://docs.google.com/document/d/1yk8coLr-FEMcMHe9UTzuWRnJs9CMIDYURqm-dmQEwjk/edit?usp=sharing) - Python Algorithms and Automation  | `INFOSEC`, `Python`, `Automation`, `Algorithms`,
+| [8](https://docs.google.com/document/d/1yk8coLr-FEMcMHe9UTzuWRnJs9CMIDYURqm-dmQEwjk/edit?usp=sharing) - SIEM setup on Azure  | `SIEM`, `Azure`, `Threat Detection`, `Microsoft Sentinel`,
 
 
 
@@ -55,6 +56,3 @@ Several tools that I have experience with:
   
 
 **Stay tuned for updates!**
-
-This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
-Thank you for your time. For more information, please connect with me on [Linkedin](https://www.linkedin.com/in/luis-torres-deleon-562443214/).
